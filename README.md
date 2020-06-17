@@ -46,6 +46,5 @@ change mongoos URI in .env file (right now i added my test URI so you dont have 
 ...
 ![Frontend](https://res.cloudinary.com/prinsapps/image/upload/v1592382968/Git/Junior_Full_Stack_Developer-2-2-2_arp2oq.png)
 ![Frontend](https://res.cloudinary.com/prinsapps/image/upload/v1592382968/Git/Junior_Full_Stack_Developer-3_vr375m.png)
-![Frontend](https://res.cloudinary.com/prinsapps/image/upload/v1592382968/Git/Junior_Full_Stack_Developer_z3ryn8.png)
 ...
 
