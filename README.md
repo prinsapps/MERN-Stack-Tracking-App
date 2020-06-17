@@ -43,3 +43,7 @@ Server runs on http://localhost:5000
 Database Enviroment
 change mongoos URI in .env file (right now i added my test URI so you dont have to change if your are just testing.)
 
+...
+![Frontend](https://res.cloudinary.com/prinsapps/image/upload/v1592382968/Git/Junior_Full_Stack_Developer-2-2-2_arp2oq.png)
+...
+
